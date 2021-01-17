@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tally Counter</string>
+    <string name="target_switch">Target</string>
+    <string name="add_button" />
+    <string name="reset_button">Reset</string>
+    <string name="information">This app is a very simple tally counter, as you\'ve probably figured out (if not from its function then from its name).<br/>
+    It\'s the first app I\'ve ever created, and I made it to learn some basic things about Android development, including how buttons, inputs, states, layouts, and activities work.<br/>
+    I hope you find it useful and pleasant to use!</string>
+</resources>
